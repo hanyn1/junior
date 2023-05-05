@@ -1,0 +1,28 @@
+.emp{
+width: 700px;
+height: auto;
+background-color: rgb(222, 244, 133);
+border: 1px solid black;
+margin: 10px;
+display: flex;
+padding: 10px;
+font-family: 'Courier New', Courier, monospace;
+}
+
+.emp h3{
+    margin: 20px;
+
+}
+
+.nini:hover{
+    background-color: rgb(231, 159, 73);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}

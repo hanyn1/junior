@@ -1,0 +1,56 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.employee{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+}
+
+h1{
+  color: rgb(50, 69, 29);
+  justify-content: center;
+  text-align: center;
+}
+
+.information{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+
+}
+.information input{
+  width: 300px;
+  height: 50px;
+  font-size: 20px;
+  padding-left: 10px;
+  margin-top: 5px;
+}
+
+.information button{
+  width: 320px;
+  height: 50px;
+  margin-top: 15px;
+}
+
+.information button:hover{
+  background-color: rgb(208, 240, 65);
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+  
+}
+
+
+
